@@ -47,6 +47,6 @@ __Check out my GitHub repository:__
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=profe-robert&layout=compact)
 
 ---------------------------------------------------------------------------------------------------------------------
-Credits: <a href="https://github.com/Bhargavi-hash">Bhargavi-hash</a>
+Credits: <a href="https://github.com/durgeshsamariya/awesome-github-profile-readme-templates">Template Original</a>
 
 Date: 17/10/2025
