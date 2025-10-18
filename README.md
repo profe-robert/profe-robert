@@ -22,6 +22,9 @@ __Check out my GitHub repository:__
     <a href="https://github.com/profe-robert/react-app-completa.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=profe-robert&repo=react-app-completa" alt="GitHub Stats" />
     </a>
+    <a href="https://github.com/profe-robert/kotlin-hola-mundo.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=profe-robert&repo=kotlin-hola-mundo" alt="GitHub Stats" />
+    </a>
     <a href="https://github.com/profe-robert/spring-hateoas.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=profe-robert&repo=spring-hateoas" alt="GitHub Stats" />
     </a>
