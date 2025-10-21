@@ -25,6 +25,9 @@ __Check out my GitHub repository:__
     <a href="https://github.com/profe-robert/kotlin-hola-mundo.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=profe-robert&repo=kotlin-hola-mundo" alt="GitHub Stats" />
     </a>
+    <a href="https://github.com/profe-robert/java-ant-poo.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=profe-robert&repo=java-ant-poo" alt="GitHub Stats" />
+    </a>
     <a href="https://github.com/profe-robert/spring-hateoas.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=profe-robert&repo=spring-hateoas" alt="GitHub Stats" />
     </a>
