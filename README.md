@@ -28,6 +28,9 @@ __Check out my GitHub repository:__
     <a href="https://github.com/profe-robert/java-ant-poo.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=profe-robert&repo=java-ant-poo" alt="GitHub Stats" />
     </a>
+    <a href="https://github.com/profe-robert/java-pet-airbnb.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=profe-robert&repo=java-pet-airbnb" alt="GitHub Stats" />
+    </a>
   </p>
 </div>
 
@@ -42,12 +45,13 @@ __Check out my GitHub repository:__
   
   <p align="center">
   <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=profe-robert" alt="GitHub Stats" /> <br/><br/>
+  
+  ![My github status](https://github-readme-stats.vercel.app/api?username=profe-robert&show_icons=true&include_all_commits=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=profe-robert&layout=compact)
   
 </div>
 
-![My github status](https://github-readme-stats.vercel.app/api?username=profe-robert&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=profe-robert&layout=compact)
+
 
 ---------------------------------------------------------------------------------------------------------------------
 Credits: <a href="https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/tree/master/templates">Template Original</a>
